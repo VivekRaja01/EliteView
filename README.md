@@ -142,7 +142,7 @@ Smooth animations via Framer Motion
 Sticky navbar & scroll behavior
 
 
-📧 Contact
+### 📧 Contact
 
 👨‍💻 Developed by: Vivek Raja
 
