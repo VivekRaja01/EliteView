@@ -58,6 +58,9 @@ This application is ideal for:
 ### ✅ 8. Trailer Modal (Optional Preview)  
 - Movie posters reveal trailer previews on click/hover
 
+- 🚀 Live Demo
+🌐 https://elite-view-mu.vercel.app/
+
 ### 🛠 Tech Stack
 
 Frontend: React (Vite) ⚛️
