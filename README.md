@@ -139,7 +139,14 @@ Smooth animations via Framer Motion
 Sticky navbar & scroll behavior
 
 
-🧑‍💻 Author
+📧 Contact
 
-Vivek Raja
-MERN Stack Developer | React Enthusiast | UI/UX Focused
+👨‍💻 Developed by: Vivek Raja
+
+📮 Email: rajavivek773@gmail.com
+
+🌍 GitHub: https://github.com/VivekRaja01
+
+💖 Support
+
+If you like this project, please ⭐ star the repository and share it with others! Your support helps me keep improving and building more awesome apps 🚀✨.
