@@ -78,7 +78,7 @@ State Storage: LocalStorage 💾
 Icons (if used): Lucide / HeroIcons 🖼️
 
 
-🧠 Component Breakdown
+## 🧠 Component Breakdown
 ✅ MovieGrid.jsx
 
 Fetches and displays trending movies
@@ -114,7 +114,7 @@ TMDB requests are made using fetch() or axios
 Movies are fetched from endpoints like: https://api.themoviedb.org/3/trending/all/week?api_key=YOUR_KEY
 
 
-🚧 Future Roadmap
+## 🚧 Future Roadmap
 
 Planned improvements:
 
@@ -127,7 +127,7 @@ Planned improvements:
 ✅ Continue watching section
 ✅ Deployment on Vercel/Netlify
 
-🎨 UI/UX Highlights
+## 🎨 UI/UX Highlights
 
 Clean Netflix-style layout
 
