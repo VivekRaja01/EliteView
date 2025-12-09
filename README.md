@@ -31,6 +31,7 @@ This application is ideal for:
 - Users can save movies locally  
 - Data persists after page refresh  
 - No backend needed
+- User Friendly
 
 ### ✅ 3. Search Functionality  
 - Search movies and TV shows by title  
