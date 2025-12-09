@@ -3,7 +3,7 @@
 🎬 EliteView is a Netflix-inspired movie & TV streaming web app built with React, Tailwind CSS, React Router & TMDB API 💻.
 ✨ Browse trending movies, watch previews, save favorites ⭐, search instantly 🔍, and enjoy smooth animations & responsive design 📱💻.
 🌙 Features dark mode, interactive hover effects, collapsible FAQs 📖, and email prompts 📧 for a realistic streaming experience.
-🚀 Perfect for showcasing modern UI/UX skills, interactive design, and a polished Netflix-like clone ❤️.
+🚀 Perfect for showcasing modern UI/UX skills, interactive design, and a polished Netflix-like clone ❤️. 
 
 ---
 
